@@ -4,5 +4,45 @@
     "name":"siri",
     "phone":"9988776655",
     "email":"sirivennelakr@gmail.com"
+  },
+  "skills":[
+    {
+      "name":"programing languages",
+      "value":"c,c++,java"
+    },
+    {
+      "name":"operating system",
+      "value":"windows,linx"
+    },
+    {
+      "name":"web technologies",
+      "value":"html,css,javascript,phython"
+    }
+  ],
+"education":[
+  {
+    "course":"b-tech(cse)",
+    "college":[
+      "svit",
+      "2015-2019",
+      "80%"
+    ]
+  },
+  {
+  "course":"inter(mpc)",
+  "college":[
+    "srisai junior college",
+    "2013-2015",
+    "80%"
+  ]
+  },
+  {
+    "course":"ssc",
+    "college":[
+      "narayana e techno school",
+      "2013",
+      "80%"
+    ]
   }
+]
 }
